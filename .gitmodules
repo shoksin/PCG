@@ -1,0 +1,9 @@
+[submodule "lab1/PCG-Colors"]
+	path = lab1/PCG-Colors
+	url = https://github.com/shoksin/PCG-Colors.git
+[submodule "lab2/PCGLab2"]
+	path = lab2/PCGLab2
+	url = https://github.com/shoksin/PCGLab2.git
+[submodule "lab3/PCG-LAB3"]
+	path = lab3/PCG-LAB3
+	url = https://github.com/shoksin/PCG-LAB3.git
