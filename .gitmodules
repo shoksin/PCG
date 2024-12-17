@@ -13,3 +13,6 @@
 [submodule "lab5/PCG-LAB5"]
 	path = lab5/PCG-LAB5
 	url = https://github.com/shoksin/PCG-LAB5.git
+[submodule "lab6/PCG-LAB6"]
+	path = lab6/PCG-LAB6
+	url = https://github.com/shoksin/PCG-LAB6.git
